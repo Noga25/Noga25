@@ -6,9 +6,9 @@
   - [https://github.com/Noga25/Who-spilled-the-milk] (mobile game i made and uploaded)
   - [https://play.google.com/store/apps/details?id=com.DefultCompany] (the google play page)
 - <b>Computer Games</b>
-  - [FIM (File Integrity Monitor)](Link)
+  - [https://github.com/Sagrius/Unity-Project/tree/main/Y2%20Final%20Project] (computer game i made with a group of people)
 - <b>C# Projects</b>
-  - [https://github.com/Noga25/TileMapEnginePersonalProject] (Tile Map Engin)
+  - [https://github.com/Noga25/TileMapEnginePersonalProject] (Tile Map Engin c#)
 - <b>Data Bases </b>
   - [https://github.com/yoavk-sudo/DBTrivia] (Link for quiz in unity who uses database to storage information)
 
