@@ -3,7 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Mobile Games</b>
-  - [Praciting DS & Algos in Python](Link)
+  - [https://github.com/Noga25/Who-spilled-the-milk] (mobile game i made and uploaded)
+  - [https://play.google.com/store/apps/details?id=com.DefultCompany] (the google play page)
 - <b>Computer Games</b>
   - [FIM (File Integrity Monitor)](Link)
 - <b>C# Projects</b>
