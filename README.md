@@ -9,7 +9,7 @@
 - <b>C# Projects</b>
   - [Keylogger with Email Capability](Link)
 - <b>Data Bases </b>
-  - [https://github.com/Noga25/MySql] (Link for quiz in unity who uses database to storage information)
+  - [https://github.com/yoavk-sudo/DBTrivia] (Link for quiz in unity who uses database to storage information)
 
 <h2> 🤳 Connect with me:</h2>
 
